@@ -1,8 +1,4 @@
 {
-<<<<<<< HEAD
-    "presets": ["@babel/preset-react", "@babel/preset-env"]
-}
-=======
   "presets": [
     "@babel/react",
     "@babel/env"
@@ -34,4 +30,3 @@
     "@babel/plugin-proposal-throw-expressions"
   ]
 }
->>>>>>> ed27ccb20ee1d10d35ed0264d74445b43188343c

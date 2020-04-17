@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-import React from "react";
-import ReactDOM from "react-dom";
-import App from "./App";
-import { Provider } from "react-redux";
-import store from "./store";
-
-ReactDOM.render(
-  <Provider store={store}>
-    <App />
-  </Provider>,
-  document.getElementById("root")
-);
-=======
 import React from 'react'
 import ReactDOM from 'react-dom'
 import {Provider} from 'react-redux'
@@ -31,4 +17,3 @@ ReactDOM.render(
   </Provider>,
   document.getElementById('app')
 )
->>>>>>> ed27ccb20ee1d10d35ed0264d74445b43188343c
