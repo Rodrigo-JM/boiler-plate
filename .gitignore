@@ -1,2 +1,11 @@
 node_modules
+<<<<<<< HEAD
 package-lock.json
+=======
+public/bundle.js
+public/bundle.js.map
+secrets.js
+.DS_Store
+npm-debug.log
+yarn-error.log
+>>>>>>> ed27ccb20ee1d10d35ed0264d74445b43188343c
